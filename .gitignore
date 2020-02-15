@@ -1,0 +1,28 @@
+.DS_Store
+/node_modules/
+
+# Build artifacts
+/dist/
+/dist_electron/
+
+# Native build artifacts
+/native/target/
+/native/index.node
+/native/artifacts.json
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor settings
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# npm lockfile
+/package-lock.json
