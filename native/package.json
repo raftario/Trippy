@@ -1,0 +1,10 @@
+{
+    "name": "trippy-native",
+    "version": "0.1.0",
+    "license": "MIT",
+    "main": "index.node",
+    "files": [
+        "index.node",
+        "index.d.ts"
+    ]
+}
